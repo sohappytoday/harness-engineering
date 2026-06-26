@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Push"
+  short_description: "Commit and push Git changes safely"
+  default_prompt: "Use $git-commit-push to review changes, create a commit, and push it."
